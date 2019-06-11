@@ -16,4 +16,4 @@ if __name__ == '__main__':
 
 
     window_handles=driver.window_handles
-    for i
+    for i in
